@@ -141,5 +141,27 @@ https://zhuanlan.zhihu.com/p/625411409
 ![image](https://user-images.githubusercontent.com/22925948/234811288-e732530f-9ae4-4383-b25f-320ced3fde63.png)
 
 
+# 海水渲染
+
+多层法线融合+高度tiling变化+顶点波形变化+海水退潮痕迹+浅水焦散
+
+![image](https://user-images.githubusercontent.com/22925948/234835274-0be416a5-2e8d-4606-b03d-a353edf2952c.png)
+
+
+
+# 写实类特效
+
+球形法线固定方向+粒子方向范围+自定义光源方向
+
+![image](https://user-images.githubusercontent.com/22925948/234836578-ada7abca-af1f-498c-9fab-ed2ad8145d49.png)
+
+
+#  多语种文字合并字体
+
+16国语言合并成1个ttf,压缩至5m
+
+https://zhuanlan.zhihu.com/p/625447544
+
+![image](https://user-images.githubusercontent.com/22925948/234840025-c15391f1-2aa4-44c3-867c-023f46e3e5a2.png)
 
 
