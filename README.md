@@ -25,3 +25,15 @@ https://zhuanlan.zhihu.com/p/353824362
 基于后处理的线性雾+高度雾+mask剔除+扰动
 ![image](https://user-images.githubusercontent.com/22925948/234753795-97572c20-1c5c-4573-b8ce-921e80bd2ec6.png)
 
+
+体积光
+
+基于顶点偏移的一种体积光
+![image](https://user-images.githubusercontent.com/22925948/234754323-05970a48-3b66-4fb8-a795-5983a4a6271f.png)
+
+
+自定义Shadowmap
+
+renderfeature+AABB单角色检测+blur+noise+bias
+![img_v2_6ddcd231-f8c9-452b-8e82-f1edb808306g](https://user-images.githubusercontent.com/22925948/234754888-74e0b246-9f6c-49cb-aa52-07cabc83fb98.jpg)
+
