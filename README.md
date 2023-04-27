@@ -119,9 +119,20 @@ DrawMeshInstancedIndirect+wind+AABBCulling+alphaToCoverage+mipmap处理高度太
 https://zhuanlan.zhihu.com/p/625400372
 
 
+UI外发光内描边处理
+
+sobel+alpha检测+blur
+
+https://zhuanlan.zhihu.com/p/266242695
 
 
+地表混合图层优化
 
+indexmap+特殊处理
+
+https://zhuanlan.zhihu.com/p/625411409
+
+![image](https://user-images.githubusercontent.com/22925948/234811288-e732530f-9ae4-4383-b25f-320ced3fde63.png)
 
 
 
