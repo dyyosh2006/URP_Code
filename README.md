@@ -54,16 +54,22 @@ renderfeature+AABB单角色检测+blur+noise+bias
 特效基础shader集成
 
 基础贴图+颜色映射+扰动+溶解+扭曲+顶点偏移+遮罩+软粒子+shaderGUI
+
 ![image](https://user-images.githubusercontent.com/22925948/234756081-b9646634-74b4-461c-9f43-5fe42b3693a7.png)
 
 
 角色渲染
 
 PBR+NPR+ramptonecolor+rampRimlight+customGI+heightColor
+
 kajiyaDiffuse+MarshaSpeluar+flowmap头发
+
 customcubemap+自定义GI眼睛
+
 双层高光+blurN+LUTSSS+customAO皮肤
+
 clothTilingNormal+fuzzyColor衣服
+
 ![image](https://user-images.githubusercontent.com/22925948/234779576-39888353-4ae2-4c7d-b5bd-3714893a54a4.png)
 
 
