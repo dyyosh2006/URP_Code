@@ -60,7 +60,7 @@ https://zhuanlan.zhihu.com/p/353824362
 
 # 角色渲染
 
-## PBR+NPR+ramptonecolor+rampRimlight+customGI+heightColor
+## PBR+NPR+ramptonecolor+rampRimlight+customGI+heightColor+smoothNormaldoubelPassOutline
 
 ## kajiyaDiffuse+MarshaSpeluar+flowmap头发
 
