@@ -168,7 +168,7 @@ https://zhuanlan.zhihu.com/p/625447544
 # 前向渲染screenspaceDecal
 
 
-stencil控制decal分层 + Z轴面UV处理
+## stencil控制decal分层 + Z轴面UV处理
 
 
 ![9VP2PY P6BE R_T3 QB4A_F](https://user-images.githubusercontent.com/22925948/235040787-154eef92-f19b-41c8-b81a-10b44126d08f.png)
