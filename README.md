@@ -34,7 +34,7 @@ https://zhuanlan.zhihu.com/p/353824362
 
 # 自定义Shadowmap
 
-## renderfeature+AABB单角色检测+blur+noise+bias
+## renderfeature+AABB单角色检测+blur+noise+bias+PCSS
 ![img_v2_6ddcd231-f8c9-452b-8e82-f1edb808306g](https://user-images.githubusercontent.com/22925948/234754888-74e0b246-9f6c-49cb-aa52-07cabc83fb98.jpg)
 
 
